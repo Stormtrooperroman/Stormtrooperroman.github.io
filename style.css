@@ -1,0 +1,20 @@
+#cycle{
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+}
+#cen{
+    margin-right: auto;
+    margin-right: auto;
+}
+h1{
+    text-align: center;
+}
+#inp{
+    margin-left: 748px;
+    width: 300px;
+}
+#but{
+    width: 100px;
+}
